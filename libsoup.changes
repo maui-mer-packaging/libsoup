@@ -1,3 +1,6 @@
+* Thu Mar 06 2014 Pier Luig Fiorini <pierluigi.fiorini@gmail.com> - 2.44.2
+- Update to 2.44.2
+
 * Sun May 26 2013 Islam Amer <islam.amer@jollamobile.com> - 2.38.1
 - [packaging] based on tag LIBSOUP_2_38_1
 - [packaging] build require gnome-common instead of having our own copy

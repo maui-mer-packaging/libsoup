@@ -1,12 +1,12 @@
 Name: libsoup
 Summary: Soup, an HTTP library implementation
-Version: 2.38.1
+Version: 2.44.2
 Release: 1
 Group: System/Libraries
 License: LGPLv2
 URL: http://live.gnome.org/LibSoup
 Sources:
-    - http://download.gnome.org/sources/libsoup/2.38/%{name}-%{version}.tar.xz
+    - http://download.gnome.org/sources/libsoup/2.44/%{name}-%{version}.tar.xz
 Patches:
     - disable-gtk-doc.patch
 Description: |
